@@ -1,1 +1,1 @@
-console.log('line1 stsrted');
+console.log('line1 started');
